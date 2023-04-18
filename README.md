@@ -2,13 +2,13 @@
 
 Are you ready for fast and robust ground-segmentation for all terrain robots?
 
-Patchwork2 is under revision and soon will be available.
+***Patchwork2*** is under revision and soon will be available.
 
 ## Features
 
 * Two times faster than [Patchwork](https://github.com/LimHyungTae/patchwork) while showing better precision and recall!
-* Contains outlier-robust approach to prevent bin-wise ground segmentation failure
-* All terrain supported.
+* Contains an outlier-robust approach to prevent bin-wise ground segmentation failure
+* Supports all terrain.
 * Super-easy usability (because all the parameters are automatically changed)
 
 ```bash
