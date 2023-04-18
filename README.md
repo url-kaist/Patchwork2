@@ -1,8 +1,8 @@
 # patchwork2
 
-Are you ready for fast and robust ground-segmentation for all terrain robots?
+Are you ready to exploit fast and robust ground-segmentation for all terrestrial robots?
 
-***Patchwork2*** is under revision and soon will be available.
+***Patchwork2*** is under revision and soon will be available! :sunglasses::sunglasses::sunglasses: 
 
 ## Features
 
@@ -22,6 +22,6 @@ $ roslaunch patchwork2 run_patchwork2.launch sensor_type:=OS1-64
 $ roslaunch patchwork2 run_patchwork2.launch sensor_type:=HDL-64E
 ```
 
-**Stay tuned!** :)
+**Stay tuned!** :stuck_out_tongue_closed_eyes:	
 
 ![tmp](materials/Patchwork2_demo_original.gif)
