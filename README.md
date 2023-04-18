@@ -9,7 +9,7 @@ Are you ready to exploit fast and robust ground-segmentation for all terrestrial
 * Two times faster than [Patchwork](https://github.com/LimHyungTae/patchwork) while showing better precision and recall!
 * Contains an outlier-robust approach to prevent bin-wise ground segmentation failure
 * Supports all terrain.
-* Super-easy usability (because all the parameters are automatically changed)
+* Super-easy usability (because all the parameters, including sensor height, are automatically set)
 
 ```bash
 % When running Patchwork2 using VLP-16 with a wheel-based robot or quadruped robot
